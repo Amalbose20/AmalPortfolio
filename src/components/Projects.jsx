@@ -8,7 +8,7 @@ export default function Projects() {
     <section id="projects">
       <div ref={ref} className={`wrap reveal${inView ? ' in' : ''}`}>
         <div className="section-head">
-          <span className="section-num">· Projects</span>
+          <span className="section-num">03 · Projects</span>
           <h2>What I'm building right now.</h2>
         </div>
         <div className="project-card">
