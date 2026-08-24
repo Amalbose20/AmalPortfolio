@@ -8,7 +8,7 @@ export default function About() {
     <section id="about">
       <div ref={ref} className={`wrap reveal${inView ? ' in' : ''}`}>
         <div className="section-head">
-          <span className="section-num">01 · About</span>
+          <span className="section-num">· About</span>
           <h2>Grounded in fundamentals, curious by default.</h2>
         </div>
         <div className="about-grid">

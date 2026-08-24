@@ -11,7 +11,7 @@ export default function CertsAndEducation() {
         <div className="two-col">
           <div id="certificates">
             <div className="section-head">
-              <span className="section-num">04 · Certificates</span>
+              <span className="section-num">· Certificates</span>
               <h2>Learning, logged.</h2>
             </div>
             <Timeline items={certificates} />
@@ -19,7 +19,7 @@ export default function CertsAndEducation() {
 
           <div id="education">
             <div className="section-head">
-              <span className="section-num">05 · Education</span>
+              <span className="section-num">· Education</span>
               <h2>Where the foundations came from.</h2>
             </div>
             <Timeline items={education} />

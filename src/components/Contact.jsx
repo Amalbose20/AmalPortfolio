@@ -8,7 +8,7 @@ export default function Contact() {
     <section id="contact">
       <div ref={ref} className={`wrap reveal${inView ? ' in' : ''}`}>
         <div className="contact-card">
-          <span className="section-num">06 · Contact</span>
+          <span className="section-num">· Contact</span>
           <h2>Let's talk about where this goes next.</h2>
           <p>Open to software engineering roles and full‑stack opportunities. I usually reply within a day.</p>
           <div className="contact-links">

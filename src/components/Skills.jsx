@@ -8,7 +8,7 @@ export default function Skills() {
     <section id="skills">
       <div ref={ref} className={`wrap reveal${inView ? ' in' : ''}`}>
         <div className="section-head">
-          <span className="section-num">02 · Skills</span>
+          <span className="section-num">· Skills</span>
           <h2>The stack, grouped the way I reach for it.</h2>
           <p className="section-desc">Not a wall of logos — the tools sorted by the job they do for me.</p>
         </div>
